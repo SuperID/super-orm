@@ -23,6 +23,11 @@
 # super-orm
 基于 Node.js 的 MySQL ORM 模块，支持缓存、多 MySQL 连接，支持 TypeScript
 
+-----
+
+**此项目已停止维护，请使用[https://github.com/leizongmin/leizm-mysql](https://github.com/leizongmin/leizm-mysql)**
+
+-----
 
 ## 安装
 
